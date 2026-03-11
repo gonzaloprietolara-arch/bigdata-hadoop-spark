@@ -27,5 +27,3 @@ Data transformations and aggregations using Spark DataFrame API and Spark SQL.
 
 ### Spark Streaming
 Implementation of micro-batch processing for streaming data pipelines.
-
-## Repository structure
